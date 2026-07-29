@@ -47,7 +47,6 @@ and Linux server deployments**.
 - Nginx
 - GitHub Actions
 - CI/CD
-- Kestrel
 - Server Deployment
 
 ---
