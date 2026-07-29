@@ -67,7 +67,7 @@ and Linux server deployments**.
 
 ## 📌 Featured Projects
 
-🚧 **Projects coming soon...**
+⭐ Teltonika GPS TCP Server
 
 I am currently organizing and publishing selected projects and technical demos.
 
